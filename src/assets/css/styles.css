@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.navbar {
+  background-color: #09a7f0;
+}
+
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: #000;
+  border-radius: 4px;
+}
+
+.navbar-brand {
+  padding: 8px;
+  color: #fff;
+}
+
+.dropdown-menu {
+    background-color: #09a7f0;
+}
+
+.dropdown-item {
+    color: #fff !important;
+}
+
+.dropdown-item:hover {
+    background-color: #000 !important;
+    border-radius: 4px;
+}
+
+footer {
+  padding: 16px;
+  text-align: center;
+  background-color: #09a7f0;
+  color: #fff;
+}
